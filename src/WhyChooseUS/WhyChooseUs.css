@@ -32,3 +32,16 @@
   line-height: 45px;
   border: 3px solid rgb(4, 4, 90);
 }
+.custom-button {
+  background-color: transparent;
+  border: 1px solid rgb(4, 4, 90);
+  border-radius: 50px;
+  font-size: 15px;
+  padding: 7px 30px;
+  color: rgb(4, 4, 90);
+  transition: ease all 0.25s;
+}
+.custom-button:hover {
+  background-color: rgb(4, 4, 90);
+  color: white;
+}

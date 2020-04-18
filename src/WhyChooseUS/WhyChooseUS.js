@@ -75,6 +75,9 @@ class WhyChooseUs extends Component {
                 </div>
               </div>
             </div>
+            <div>
+              <button className="custom-button">Read More</button>
+            </div>
           </div>
         </div>
       </div>

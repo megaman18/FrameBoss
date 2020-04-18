@@ -28,3 +28,7 @@
 .text-box h1 {
   margin-bottom: 40px;
 }
+.Header-text a:hover {
+  background-color: rgb(4, 4, 90);
+  color: white;
+}
