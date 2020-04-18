@@ -1,0 +1,30 @@
+.Header-img img {
+  width: 100%;
+  height: auto;
+}
+.social-links {
+  transform: rotate(90deg);
+}
+.social-links a {
+  font-size: 13px;
+  text-decoration: none;
+}
+.Header-text {
+  height: 120%;
+}
+.Header-text p {
+  padding-left: 30px;
+  border-left: 3px solid rgb(4, 4, 90);
+}
+.Header-text a {
+  padding: 6px 30px;
+  border: 1px solid rgb(4, 4, 90);
+  border-radius: 50px;
+}
+.text-box {
+  color: rgb(4, 4, 90);
+  transform: translate(0, 90px);
+}
+.text-box h1 {
+  margin-bottom: 40px;
+}

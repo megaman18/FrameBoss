@@ -1,0 +1,21 @@
+.FP-headings {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(4, 4, 90);
+  margin-bottom: 30px;
+}
+.FP-headings h2 span {
+  border-bottom: 1px solid rgb(4, 4, 90);
+}
+.row {
+  overflow: hidden;
+}
+.col-md-4 {
+  overflow: hidden;
+}
+.col-md-4 img {
+  width: 95%;
+  height: 95%;
+}

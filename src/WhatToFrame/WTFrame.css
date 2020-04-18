@@ -1,0 +1,18 @@
+.frame-headings {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(4, 4, 90);
+  margin-bottom: 50px;
+}
+.frame-headings h2 span {
+  border-bottom: 1px solid rgb(4, 4, 90);
+}
+.img-box {
+  width: 80%;
+  border: 10px solid rgb(230, 230, 230);
+}
+.img-box img {
+  width: 100%;
+}

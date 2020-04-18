@@ -1,0 +1,17 @@
+.left-img img {
+  width: 100%;
+  height: auto;
+}
+.left-text button {
+  background-color: transparent;
+  border: 1px solid rgb(4, 4, 90);
+  border-radius: 50px;
+  font-size: 15px;
+  padding: 7px 30px;
+  color: rgb(4, 4, 90);
+  transition: ease all 0.25s;
+}
+.left-text button:hover {
+  background-color: rgb(4, 4, 90);
+  color: white;
+}

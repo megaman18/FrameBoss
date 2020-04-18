@@ -1,0 +1,34 @@
+.WhyChooseUs {
+  color: rgb(4, 4, 90);
+}
+.whychooseusmain {
+  border: 6px solid rgb(4, 4, 90);
+  width: 80%;
+  position: relative;
+  width: 100%;
+  height: 270px;
+}
+.wcs-img img {
+  width: 100%;
+  height: 100%;
+}
+.wcs-img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 20%;
+  left: 10%;
+  z-index: 5;
+}
+.deals-icon {
+  display: inline-block;
+  text-align: center;
+}
+.deals-icon i {
+  background-color: rgb(240, 240, 240);
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  line-height: 45px;
+  border: 3px solid rgb(4, 4, 90);
+}
