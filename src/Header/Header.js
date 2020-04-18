@@ -16,7 +16,7 @@ class Header extends Component {
               <div className="img-ribbons"></div>
             </div>
             <div className="col-md-6 text-box">
-              <h1>A NEW APPROCH TO CUSTOM FAME</h1>
+              <h1>A NEW APPROACH TO CUSTOM FAME</h1>
               <div className="row">
                 <div className="col-md-12 Header-text">
                   <p>
@@ -25,7 +25,7 @@ class Header extends Component {
                     natoque penatibus et magnis dis parturient montes
                   </p>
 
-                  <a href="#">START FRAMMING</a>
+                  <a href="#">START FRAMING</a>
                 </div>
               </div>
             </div>

@@ -14,7 +14,7 @@ class Navbar extends Component {
               <h6>Services</h6>
               <h6>Flames</h6>
               <h6>Blogs</h6>
-              <h6>Contect Us</h6>
+              <h6>Contact Us</h6>
             </div>
             <div className="col-md-1 nav-icons">
               <i className="fas fa-user"></i>

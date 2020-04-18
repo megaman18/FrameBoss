@@ -11,13 +11,18 @@ const Footer = () => (
           </p>
           <p>Follow Us</p>
           <div className="footer-social-icons">
-            <i className="fab fa-facebook-f"></i>
+            <i className="fab fa-facebook-f" />
             <i className="fab fa-instagram"></i>
             <i className="fab fa-twitter"></i>
           </div>
           <p>Get Inspiration</p>
           <form className="footer-form">
-            <input placeholder="Email" type="text" name="footer-input" />
+            <input
+              placeholder="Email"
+              value="Enter Your Email"
+              type="text"
+              name="footer-input"
+            />
             <input type="submit" value="Submit" />
           </form>
         </div>
